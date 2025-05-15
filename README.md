@@ -32,12 +32,14 @@ After setup, you can run queries to manage and monitor your inventory.
 ## 📂 Files
 - `finalProject.sql` — SQL script with table definitions and sample data
 - `README.md` — This documentation file
-- `ERD` - A screenshot of the Entity Realtionship Diagram 
+- `ERD` - A screenshot of the Entity Relationship Diagram 
 
 ---
 
 ## 👩🏽‍💻 Author
 Ongezwa Ngotana
+
+#ENTITY RELATIONSHIP DIAGRAM
 ![Inventory_tracking_system drawio](https://github.com/user-attachments/assets/fecafbc4-88bb-440b-9463-e91d2a2cab14)
 
 
